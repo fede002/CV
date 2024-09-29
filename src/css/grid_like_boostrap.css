@@ -327,13 +327,13 @@ Personalizado
 }
 
 .panel-background {
-  background-image: url('src/img/backgound_header.jpeg');
+  background-image: url('../../src/img/backgound_header.jpeg');
   /*background-image: url(https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg);**/
   background-size: cover;
 }
 
 .panel-background2 {
-  background-image: url('src/img/background_headeder_2.jpeg');
+  background-image: url('../../src/img/background_headeder_2.jpeg');
   /*background-image: url(https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg);**/
   background-size: cover;
 }
